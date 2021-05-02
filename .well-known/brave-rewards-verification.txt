@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: aadikar.com.np
-Token: 6ba5bc2e5c26cae3a31a8cbcd6241982623e75c626ce7993afffc90ddf60e453
