@@ -3,6 +3,11 @@ Template 2084 Zipper
 
 http://www.tooplate.com/view/2084-zipper
 */
+
+html {
+	filter: grayscale(100%);
+}
+
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
